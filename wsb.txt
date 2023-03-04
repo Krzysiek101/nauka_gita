@@ -1,0 +1,12 @@
+Branch WSB
+commit 1498c5d5e8df3f98844968109b5afe48913a7b42
+Author: Krzysiek101 <kmyszkowski7@gmail.com>
+Date:   Sat Mar 4 15:47:08 2023 +0100
+
+    funkcja srednia
+
+commit a5e01da8cdcd8ec98726ff4c7d9b5a4b8da4c3be
+Author: Krzysiek101 <kmyszkowski7@gmail.com>
+Date:   Sat Mar 4 15:34:21 2023 +0100
+
+    drugi commit
